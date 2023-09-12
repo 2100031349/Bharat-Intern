@@ -1,1 +1,59 @@
 
+body {
+    font-family: Arial, sans-serif;
+    background-color:aliceblue;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+h1 {
+    color: #333;
+    justify-content: center;
+}
+
+.input-container {
+    margin: 20px 0;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    justify-content: center;
+    background-color:chartreuse;
+    color: #fff;
+    border:#333;
+    cursor: pointer;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 20px;
+    justify-content: center;
+    
+}
